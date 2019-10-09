@@ -1,5 +1,5 @@
 # Bakaláři API
-Dokumentace mobilního API bakalářů
+Dokumentace mobilního API bakalářů.
 
 # URL
 Vše se odehrává na adrese institutu (školy). Pro zjednodušení budu používat doménu www.example.com. Veškeré API dotazy směřují na `/login.aspx` a to i v případě, že adresa používá nové webové rozhraní next (např. `https://www.example.com/login.aspx`)
